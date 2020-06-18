@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{9526DA06-62EC-4F39-93D5-58B96F8CA006}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{A7AAB113-426F-41D0-8FC8-C064CC5C25F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleshipGUI", "BattleshipGUI\BattleshipGUI.csproj", "{250C21D8-7F08-4409-8E3F-97BC48D03832}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9526DA06-62EC-4F39-93D5-58B96F8CA006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9526DA06-62EC-4F39-93D5-58B96F8CA006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9526DA06-62EC-4F39-93D5-58B96F8CA006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9526DA06-62EC-4F39-93D5-58B96F8CA006}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7AAB113-426F-41D0-8FC8-C064CC5C25F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7AAB113-426F-41D0-8FC8-C064CC5C25F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7AAB113-426F-41D0-8FC8-C064CC5C25F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7AAB113-426F-41D0-8FC8-C064CC5C25F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{250C21D8-7F08-4409-8E3F-97BC48D03832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{250C21D8-7F08-4409-8E3F-97BC48D03832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{250C21D8-7F08-4409-8E3F-97BC48D03832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{250C21D8-7F08-4409-8E3F-97BC48D03832}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F24A1A8-B4B3-473F-BDF2-530FDB9D4779}
+	EndGlobalSection
+EndGlobal

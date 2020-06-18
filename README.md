@@ -1,2 +1,5 @@
 # Battleship
-Creating battleship game via c#
+
+Simulation of the Battleship game intended to allow a player to play against computer.
+
+[Wiki pages](../../wiki/Home)
